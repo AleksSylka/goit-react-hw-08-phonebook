@@ -1,0 +1,38 @@
+.label-contacts {
+    color: #353535;
+    font-size: 1.5em;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-weight: 500;
+    transition: .5s ease-in-out;
+}
+
+.input-contacts {
+    width: 70%;
+    height: 20px;
+    background: #e0dede;
+    justify-content: center;
+    display: flex;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+
+.block-filter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.title-filter {
+    margin: 0;
+    margin-top: 15px;
+}
